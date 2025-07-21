@@ -1,3 +1,5 @@
-Developed an AI Agent by using browser use github.
+Developed an AI Agent by using browser use github links.
 Cloned all the browser use git commands.
-In the web-ui interface of browser use - Built AI Agent and entered different prompts and did web scraping with the help of playwright.
+In the web-ui interface of browser use - Selected the google and gemini-flash 2.0 LLM and generated API key from Google AI Studio,
+and entered different prompts and did web scraping with the help of playwright.
+
